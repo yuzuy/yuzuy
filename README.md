@@ -1,8 +1,7 @@
 ###  Hi I'm yuzuy! 👋
 
-I'm a web back-end developer. I ❤️  [Go language](https://golang.org)!
+I'm a web back-end developer and a Gopher!
 
 - 👔 [Resume](https://github.com/yuzuy/resume)
-- 🏫 High school student(3rd grade)
+- 🏫 [student at bunka fashion college](https://bunka-fc.ac.jp)
 - 🐦 [Twitter](https://twitter.com/re_yuzuy)
-
